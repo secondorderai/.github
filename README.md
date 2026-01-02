@@ -10,7 +10,6 @@ SecondOrder AI is focused on developing advanced AI systems with meta-cognitive 
 
 - [Repositories](#repositories)
   - [secondorder-web](#secondorder-web)
-  - [.github](#github)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
@@ -89,26 +88,6 @@ npm test
 # Run E2E tests
 npm run test:e2e
 ```
-
----
-
-### .github
-
-**Repository:** [secondorderai/.github](https://github.com/secondorderai/.github)  
-**Status:** Active  
-**Last Updated:** January 2, 2026
-
-#### Description
-
-Organization-level repository containing shared documentation, workflows, and resources for the SecondOrder AI organization. This repository provides a centralized overview of all projects and serves as the entry point for understanding our work.
-
-#### Contents
-
-- Organization overview and mission statement
-- Comprehensive table of contents for all repositories
-- Repository summaries and documentation
-- Shared GitHub configurations (when applicable)
-
 ---
 
 ## Getting Started
